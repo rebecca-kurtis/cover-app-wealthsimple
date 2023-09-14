@@ -13,6 +13,12 @@ export const WhyMe: React.FC<WhyMeProps> = ({}) => {
           Why should the Company hire me?
         </div>
       </div>
+      <div className="whyMeSpacerPara" />
+    <div className="whyMeParagraph">
+    <p>Coming from a marketing background, I have strong communication skills and have worked with a variety of clients, giving me the skills necessary to multi-task and balance work. I work well independently but also collaboratively. I think being able to collaborate and work with a team on a task lets creativity blossom and I truly love seeing the ideas and brainstorming that can come out of it! I thrive working on engaging and challenging projects and pride myself on being able to dig in and help where needed. 
+    </p>
+    <p>From start to finish, I enjoy the entire process of building a project. Teamwork, creativity, and adaptability are all values that resonate with me. What I love about problem-solving, is finding new ways to solve a problem and making an experience better for a company or an individual.</p>
+    </div>
       <div className="whyMeSpacer" />
       <div className="whyMePointsContainer">
         <CardComponent

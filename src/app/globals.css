@@ -496,8 +496,19 @@ div.swiper-button-next, div.swiper-button-prev {
   padding-left: 25px;
 }
 
+.whyMeParagraph {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.whyMeSpacerPara {
+  height: 20px;
+}
 .whyMeSpacer {
-  height: 50px;
+  height: 30px;
 }
 
 .whyMePointsContainer {

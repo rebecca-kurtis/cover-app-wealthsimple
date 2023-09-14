@@ -12,7 +12,7 @@ export const WhyCompany: React.FC<WhyCompanyProps> = ({}) => {
           1. I use Wealthsimple in my personal life
         </h4>
         <p>
-          I use Wealthsimple for micro-investing and I have always loved their ideology in how everyone can use it. It&apos;s something I use often and I have always thought it would be really cool to be a part of what Wealthsimple does.
+          I use Wealthsimple for micro-investing and I have always loved their ideology in how anyone can use it. It&apos;s something I use often and I have always thought it would be really cool to be a part of what Wealthsimple does.
         </p>
       </div>
       <div className="pointContainerSpacer"></div>
