@@ -20,7 +20,7 @@ export const WelcomeHeader: React.FC<WelcomeHeaderProps> = ({}) => {
         <div className="welcomeTextBlock">
           <div className="welcomeHeaderSpacer"></div>
           <h1> Welcome Wealthsimple!</h1>
-          <p> Normal cover letters are boring, and what better way to showcase my skills then by building a custom cover letter just for you!</p>
+          <p> Normal cover letters can be boring, and what better way to showcase my skills then by building a custom cover letter just for you!</p>
           <h3> Enjoy!</h3>
           <Link href={'#about'} className="learnMore">Learn more about me</Link>
         </div>
