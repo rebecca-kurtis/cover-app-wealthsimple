@@ -206,7 +206,7 @@ a {
   font-family: "Montserrat", sans-serif;
   align-items: center;
   width: 50%;
-  background-color: #0e3e30;
+  background-color: #2F4C3F;
   color: #fff;
 }
 
@@ -359,7 +359,7 @@ a {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  background-color: #0e3e30;
+  background-color: #2F4C3F;
   color: #fff;
 }
 
@@ -468,7 +468,7 @@ div.swiper-button-next, div.swiper-button-prev {
   color: #fff;
   flex-direction: column;
   height: fit-content;
-  background-color: #0e3e30;
+  background-color: #2F4C3F;
   padding: 20px;
   padding-top: 100px;
   padding-bottom: 100px;
